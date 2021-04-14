@@ -1,2 +1,2 @@
-### In this folder there is overall code with comments which we have used in this project.
+### In this folder there is overall code with comments which are used in this project.
 
